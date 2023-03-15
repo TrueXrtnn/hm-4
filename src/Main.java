@@ -13,7 +13,7 @@ public class Main {
             if (clientOC==1) {
                 System.out.println("Установите приложение для Android по ссылке ");
             } else if (clientOC==0){
-                System.out.println(" Установите приложение для iOS по ссылке");
+                System.out.println("Установите приложение для iOS по ссылке");
             }
         }
     public static void task2() {
